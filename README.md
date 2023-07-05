@@ -7,25 +7,16 @@ Curated list of the projects I've done from scratch or collaborated with
 **Progamming Language:** Swift\
 **Architecture:** MVVM \
 **Contribution:**
- - Re-architectured from MVC to MVVM,
  - Project Maintenance
- - Added new features like takeaway orders from Facebook Chatbot, Monthly Reports, Social Media Replies
  - App Re-design
  
 **Stacks:**
- - UIKit
+ - SwiftUI
  - AVFoundation
- - Moya
- - Alamofire
- - FreshChat
- - Bugsnag
- - SwiftJson
  - Kingfisher
 
-
 **Links:**
- - https://apps.apple.com/us/app/really-social/id1076894608
- - https://play.google.com/store/apps/details?id=media.reallysocial.app&hl=en_AU
+ - https://apps.apple.com/za/app/payments-manager/id1638315322?platform=iphone
  
 ### Goliaz
 ![ReallySocial](https://github.com/jhadejhade/projects/blob/master/Goliaz.png)
