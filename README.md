@@ -2,7 +2,7 @@
 Curated list of the projects I've done from scratch or collaborated with
 
 ### Payments Manager+
-![ReallySocial](https://github.com/jhadejhade/projects/blob/master/ReallySocial.png)
+![PaymentsManager+](https://github.com/jhie1217/portfolio/assets/78532100/f33aa3b9-dff3-4a7a-af9c-76db74d3c0ba)
 
 **Progamming Language:** Swift\
 **Architecture:** MVVM \
