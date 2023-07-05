@@ -17,28 +17,22 @@ Curated list of the projects I've done from scratch or collaborated with
 
 **Links:**
  - https://apps.apple.com/za/app/payments-manager/id1638315322?platform=iphone
- 
-### Goliaz
-![ReallySocial](https://github.com/jhadejhade/projects/blob/master/Goliaz.png)
+
+### Amina
+![Amina](https://github.com/jhie1217/portfolio/assets/78532100/2c8d4552-50bd-4c91-b12e-643a2174cea0)
 
 **Progamming Language:** Swift \
-**Architecture:** VIPER \
+**Architecture:** MVVM \
 **Contribution:**
  - Project Maintenance
- - Added offline caching using local repository
- - App v2 (still under development)
+ - Added animations and transitions
+ - Project set-up
  
 **Stacks:**
  - UIKit
  - AVFoundation
- - Alamofire
- - Moya
  - CoreData
  - Kingfisher
- - Facebook SDK
- - Firebase Analytics
-
-**Link:** https://apps.apple.com/us/app/goliaz-bodyweight/id1209573588
 
 ### Neymar Jr. Comics
 ![ReallySocial](https://github.com/jhadejhade/projects/blob/master/Neymar.png)
