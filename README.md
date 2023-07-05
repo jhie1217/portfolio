@@ -34,8 +34,9 @@ Curated list of the projects I've done from scratch or collaborated with
  - CoreData
  - Kingfisher
 
-### Neymar Jr. Comics
-![ReallySocial](https://github.com/jhadejhade/projects/blob/master/Neymar.png)
+### Half Million
+![image](https://github.com/jhie1217/portfolio/assets/78532100/367d347d-62c4-4ed8-887f-bf2371271713)
+
 
 **Progamming Language:** Objective-C \
 **Architecture:** MVC \
