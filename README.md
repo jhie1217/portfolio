@@ -4,7 +4,7 @@ Curated list of the projects I've done from scratch or collaborated with
 ### Really Social
 ![ReallySocial](https://github.com/jhadejhade/projects/blob/master/ReallySocial.png)
 
-**Progamming Language:** Swift / Kotlin \
+**Progamming Language:** Swift\
 **Architecture:** MVVM \
 **Contribution:**
  - Re-architectured from MVC to MVVM,
