@@ -49,4 +49,4 @@ Curated list of the projects I've done from scratch or collaborated with
  - CoreData
  - Apple Pay
 
-**Link:** https://apps.apple.com/us/app/neymar-jr-comics/id1435104890
+**Link:** https://apps.apple.com/app/id1559864940
