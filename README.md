@@ -41,6 +41,7 @@ Curated list of the projects I've done from scratch or collaborated with
 **Architecture:** MVC \
 **Contribution:**
  - Project Maintenance
+ - App Re-design
  
 **Stacks:**
  - UIKit
