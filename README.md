@@ -35,7 +35,7 @@ Curated list of the projects I've done from scratch or collaborated with
  - Kingfisher
 
 ### Half Million
-![image](https://github.com/jhie1217/portfolio/assets/78532100/367d347d-62c4-4ed8-887f-bf2371271713)
+![Uploading halfMillion.png…]()
 
 
 **Progamming Language:** Objective-C \
