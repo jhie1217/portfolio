@@ -6,9 +6,6 @@ Curated list of the projects I've done from scratch or collaborated with
 
 **Progamming Language:** Swift\
 **Architecture:** MVVM \
-**Contribution:**
- - Project Maintenance
- - App Re-design
  
 **Stacks:**
  - SwiftUI
@@ -24,10 +21,6 @@ Curated list of the projects I've done from scratch or collaborated with
 
 **Progamming Language:** Swift \
 **Architecture:** MVVM \
-**Contribution:**
- - Project Maintenance
- - Added animations and transitions
- - Project set-up
  
 **Stacks:**
  - UIKit
@@ -40,9 +33,6 @@ Curated list of the projects I've done from scratch or collaborated with
 
 **Progamming Language:** Swift \
 **Architecture:** MVC \
-**Contribution:**
- - Project Maintenance
- - App Re-design
  
 **Stacks:**
  - UIKit
